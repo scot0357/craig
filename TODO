@@ -1,0 +1,23 @@
+Pre-requisites for self-hosting
+-------------------------------
+    * name?
+    * s-expressions
+    * lambda
+    * conditionals
+    * bool/nums/strings/chars
+    * assignment
+    * recursion
+    * io (print, read)
+    * comparison
+    * arithmetic
+    * lexical scoping
+
+Eventually...
+-------------
+    * modules
+    * type checking (Hindley-Milner)
+    * type inference
+    * debugger
+    * loops
+    * TaCOs!!!
+    * more io
