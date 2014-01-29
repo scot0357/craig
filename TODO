@@ -21,3 +21,16 @@ Eventually...
     * loops
     * TaCOs!!!
     * more io
+
+Idea for how to get started, not really sure
+--------------------------------------------
+
+#. Build parser (in golang?) that reads a file (stdin maybe) of our Lisp-like language. 
+   Have it make a linked-list of tokens. Or read in file and ensure syntactical correctness.
+#. Use this token list to build abstract syntax tree to create executional code. This is
+   where we can ensure semantical correctness.
+#. Translate the Lisp-like into (golang?) native code.
+#. Compile native code. First iteration of language complete.
+
+This is what jumps out to me right away, but this is from directy experience making a
+language translator and I think I'm missing the step someone.
